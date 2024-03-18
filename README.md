@@ -1,6 +1,7 @@
-# Python Fundamentals
+# Data Viz
 
-Template for Python repository
+Data Viz tools for studies
+
 
 ### Install
 
@@ -16,8 +17,8 @@ jupyter lab
 
 ## References
 
-- https://realpython.com/
-- https://pypi.org/project/jupyterlab/
-- https://realpython.com/python-matplotlib-guide/
-- https://matplotlib.org/
-- https://matplotlib.org/stable/tutorials/index
+- https://mschermann.github.io/data_viz_reader/
+- https://clauswilke.com/dataviz/
+- http://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf
+- https://www.datavis.ca/papers/hbook.pdf
+- https://www.perceptualedge.com/articles/b-eye/choosing_colors.pdf
